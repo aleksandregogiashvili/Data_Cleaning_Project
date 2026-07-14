@@ -10,6 +10,7 @@ Skills Demonstrated:
 -- MySQL
 -- Data Cleaning
 -- Data Transformation
+-- CTEs
 -- UPDATE statements
 -- ALTER TABLE
 -- DELETE statements
